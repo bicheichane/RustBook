@@ -1,0 +1,8 @@
+
+*.exe
+
+*.pdb
+
+Chapter2/temperature_converter/target/
+
+hello_cargo/target/
